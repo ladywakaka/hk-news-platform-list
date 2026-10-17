@@ -1,6 +1,6 @@
 # 香港新聞平台名單 · HK News Platform List
 
-A password-protected dashboard of Hong Kong and China news platforms on Instagram, Facebook, Threads and YouTube: 102 social platforms, 72 Hong Kong YouTube channels (Cantonese, Mandarin, English, finance, shipping), 23 outlet YouTube channels and 11 defunct outlets. Searchable, filterable by category and stance, sortable by followers.
+A password-protected dashboard of Hong Kong and China news platforms on Instagram, Facebook, Threads and YouTube: 102 social platforms, 25 finance KOL Facebook pages, 72 Hong Kong YouTube channels (Cantonese, Mandarin, English, finance, shipping), 23 outlet YouTube channels and 11 defunct outlets. Searchable, filterable by category and stance, sortable by followers.
 
 Live page: https://ladywakaka.github.io/hk-news-platform-list/ (ask the owner for the password)
 
